@@ -1,4 +1,4 @@
-# Hi there, I'm Porntep (Pok) 👋
+# Hi there, I'm Porntep (Pokz) 👋
 
 **Senior Full Stack Developer** with **6+ years of experience** building scalable web applications.
 Passionate about **Clean Architecture**, **SOLID Principles**, Frontend performance, Serverless architecture, and **Automated Testing**.
